@@ -45,11 +45,11 @@ el osciloscopio.
 
 ![image](https://user-images.githubusercontent.com/105715717/185668592-96b12318-aa6c-4c08-a2cf-a9f00c5d3374.png)
 
+![image](https://user-images.githubusercontent.com/105675868/185667483-8c7cd72d-b6fe-42f9-8463-b11d454c352c.png)
+
 8.5.4. Responda las siguientes preguntas:
 
 # Respuesta a Interrogantes
-
-![image](https://user-images.githubusercontent.com/105675868/185667483-8c7cd72d-b6fe-42f9-8463-b11d454c352c.png)
 
 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 
