@@ -97,7 +97,7 @@ Lo que nos da una diferencia de 0.02 volts (% Error = 0.4%), lo cual es aceptabl
 
 # Video
 
-
+https://www.youtube.com/watch?v=T1oCyw9UJ6g
 
 # Conclusiones
 
@@ -106,3 +106,6 @@ Lo que nos da una diferencia de 0.02 volts (% Error = 0.4%), lo cual es aceptabl
 * La elaboración del documento escrito es de gran ayuda para plasmar el conocimiento adquirido, mostrando, por medio de la utilización de ejemplos, el uso correcto de fórmulas, para aplicar de manera adecuada según sea necesario.
 
 # Bibliografía
+
+Lifeder. (19 de Agosto de 2022). Lifeder. Obtenido de Lifeder: https://www.lifeder.com/onda-senoidal/
+
