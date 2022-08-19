@@ -26,6 +26,26 @@ NRC: 7310
 
 ![image](https://user-images.githubusercontent.com/105675868/185667483-8c7cd72d-b6fe-42f9-8463-b11d454c352c.png)
 
+# Resolución del Problema
+
+7.5.1. Implemente el circuito que se presenta en la figura 7.1
+
+![image](https://user-images.githubusercontent.com/105715717/185668184-1f979f8e-14ae-4bc3-b91d-c9e6b8de0775.png)
+
+![image](https://user-images.githubusercontent.com/105715717/185668444-ef208312-b42e-48e4-8dce-35ac60e34d90.png)
+
+8.5.2.. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a
+una frecuencia de 2.5 Khz.
+
+![image](https://user-images.githubusercontent.com/105715717/185668413-467820d4-7854-49eb-970b-ee3f836201eb.png)
+
+8.5.3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en
+el osciloscopio.
+
+![image](https://user-images.githubusercontent.com/105715717/185668592-96b12318-aa6c-4c08-a2cf-a9f00c5d3374.png)
+
+8.5.4. Responda las siguientes preguntas:
+
 # Respuesta a Interrogantes
 
 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
@@ -44,6 +64,33 @@ NRC: 7310
 
 * Se encuentra en 0.1m
 
+¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
+
+* Amplitud de voltaje: 6.89 (V)
+* Periodo: 4 X 10^-3 (s)
+
+Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
+salida.
+
+* f: 2500 (Hz)
+* ω: w = 2*π*f = 2 (π) (2500) = 15707,96 (rad/s)
+
+Con el multímetro digital mida el voltaje de salida en RL: 
+
+* RL: 4.85 V
+
+Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.
+
+¿Coinciden? 
+* si 
+
+¿Por qué?
+
+Ya que en el valor del voltaje medido por el osciloscopio es referente al valor pico (Vp) y el valor medido por el multímetro es referente al valor RMS (Vrms) el cual se calcula con la siguiente fórmula:
+
+![image](https://user-images.githubusercontent.com/105715717/185668929-29f6c007-5b8c-4337-bf2f-07c54879b788.png)
+
+Lo que nos da una diferencia de 0.02 volts (% Error = 0.4%), lo cual es aceptable tratándose de una prueba de laboratorio.
 
 # Video
 
