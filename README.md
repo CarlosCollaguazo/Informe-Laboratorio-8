@@ -29,10 +29,6 @@ NRC: 7310
 
 # Resolución del Problema
 
-![image](https://user-images.githubusercontent.com/105675868/185667483-8c7cd72d-b6fe-42f9-8463-b11d454c352c.png)
-
-# Resolución del Problema
-
 7.5.1. Implemente el circuito que se presenta en la figura 7.1
 
 ![image](https://user-images.githubusercontent.com/105715717/185668184-1f979f8e-14ae-4bc3-b91d-c9e6b8de0775.png)
@@ -52,6 +48,8 @@ el osciloscopio.
 8.5.4. Responda las siguientes preguntas:
 
 # Respuesta a Interrogantes
+
+![image](https://user-images.githubusercontent.com/105675868/185667483-8c7cd72d-b6fe-42f9-8463-b11d454c352c.png)
 
 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 
